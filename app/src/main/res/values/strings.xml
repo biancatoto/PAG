@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectAttitudeGratitude</string>
+    <string name="today_s_quote">Today\'s Quote</string>
+    <string name="what_are_3_things_you_are_grateful_for_today">What are 3 things you are grateful for today?</string>
+</resources>
